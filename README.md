@@ -1,5 +1,4 @@
-<h2> Hi, I'm Samuel Deotti! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=882B79&width=435&lines=Welcome+to+my+profile%2C+I'm+Samuel!)](https://git.io/typing-svg)
 ### 
 
 <p>
