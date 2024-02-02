@@ -4,17 +4,11 @@
 
 
 
-Greetings, fellow techies! I'm a self-proclaimed computer whisperer, constantly seeking to unravel the mysteries of the digital universe... or trying to convince my toaster to connect to the Internet (it's a work in progress).
-
-I spend my days slinging code, debugging, and pondering the meaning of life (and by "life", I mean the ever-elusive semicolon). When I'm not staring at a screen, you can find me pondering the big questions: Can robots feel love? Is AI destined to be our overlord? And why does my code always work perfectly in my head but never in reality?
-
-If you're seeking a coding partner or just need someone to share your coffee addiction with, I'm your gal. Let's embrace the endless possibilities of tech and create some magic - or just some really cool apps.
+Welcome to my corner of the digital world! I'm a passionate developer who finds joy in crafting digital solutions and bringing ideas to life through code. My journey in technology is driven by an insatiable curiosity and a deep-seated love for the art of programming.
 
 <p align="center">
   <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif" width="600" alt="Gamer Room">
 </p>
-
-"No. Try not. Do… or do not. There is no try." - Yoda
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/samuel-deotti/) 
