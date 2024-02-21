@@ -1,7 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5fffa&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Samuel+👋;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <div align="center">
-
-## 💫 Hello! My name is Samuel👋
-
 
 
 Welcome to my corner of the digital world! I'm a passionate developer who finds joy in crafting digital solutions and bringing ideas to life through code. My journey in technology is driven by an insatiable curiosity and a deep-seated love for the art of programming.
@@ -25,4 +26,4 @@ If you're working on exciting projects or seeking a coding partner to embark on 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samueldeotti&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 
- 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
