@@ -1,13 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9063C1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5fffa&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Samuel+👋;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 <div align="center">
+
+# Hello! My name is Samuel👋
 
 
 Welcome to my corner of the digital world! I'm a passionate developer who finds joy in crafting digital solutions and bringing ideas to life through code. My journey in technology is driven by an insatiable curiosity and a deep-seated love for the art of programming.
 
 If you're working on exciting projects or seeking a coding partner to embark on new adventures, feel free to reach out. Together, we can create some digital magic and push the boundaries of what's possible in the ever-evolving landscape of technology.
+
+<br>
+<br>
 
 <p align="center">
   <img src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif" width="600" alt="Gamer Room">
