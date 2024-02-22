@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9063C1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
 
 <div align="center">
 
@@ -29,4 +29,4 @@ If you're working on exciting projects or seeking a coding partner to embark on 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samueldeotti&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9063C1&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
