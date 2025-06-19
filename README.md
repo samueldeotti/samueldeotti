@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hello! My name is Samuel👋
+# Hello! My name is Samuel
 
 
 Welcome to my corner of the digital world! I'm a passionate developer who finds joy in crafting digital solutions and bringing ideas to life through code. My journey in technology is driven by an insatiable curiosity and a deep-seated love for the art of programming.
@@ -19,7 +19,7 @@ If you're working on exciting projects or seeking a coding partner to embark on 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/samuel-deotti/) 
 
-# 🚀 Technologies I'm Studying 🚀:
+# Technologies I'm Studying:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) 
